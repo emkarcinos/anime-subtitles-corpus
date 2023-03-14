@@ -1,0 +1,8 @@
+__pycache__
+.venv
+subs
+zips
+.DS_Store
+
+corpus.txt
+corpus.txt.gz

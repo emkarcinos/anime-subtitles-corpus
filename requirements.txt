@@ -1,0 +1,8 @@
+requests==2.28.2
+beautifulsoup4==4.11.2
+lxml==4.9.2
+wget==3.2
+pyunpack==0.3
+patool==1.12
+tqdm==4.65
+pysub-parser==1.7.0
